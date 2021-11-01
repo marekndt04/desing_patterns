@@ -5,4 +5,6 @@ class MarekClass:
 
 class NewOne:
     def another_method(self):
-        return "I'm method too ;)"
+        uppercase_sample = 1
+
+        return uppercase_sample
