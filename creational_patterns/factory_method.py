@@ -3,4 +3,5 @@ class MarekClass:
 
 
 class NewOne:
-    pass
+    def another_method(self):
+        return "I'm method too ;)"
